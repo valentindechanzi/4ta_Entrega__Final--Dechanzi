@@ -1,5 +1,5 @@
 footer {
-  background-color: #f5f5f5;
+  background-color: #090d00;
   padding: 80px 0; }
 
 footer .footer-widget h3 {
@@ -91,3 +91,9 @@ footer .images-gellary ul li:nth-child(3n) {
 .index_secundario__px {
   width: 30em;
   text-align: center; }
+
+body {
+  background: #090d00;
+  color: rgba(255, 255, 255, 0.25);
+  text-align: center;
+  margin: 0; }
